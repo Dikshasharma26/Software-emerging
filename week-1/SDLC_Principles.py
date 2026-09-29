@@ -34,7 +34,7 @@ Not scalable (works only for small lists).
 
 No error handling (reliability issue).
 
-No comments/documentation.
+No comments/documentation
 """
 
 ## Step 2: Refactored Code (With Principles)
